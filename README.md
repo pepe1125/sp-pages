@@ -1,1 +1,1 @@
-# sp-pages
+# Ez egy repó a GitHub oldalhoz, amit a Jekyll -el generáltam

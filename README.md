@@ -12,4 +12,6 @@
   2. kettő
   3. három
 
-Csak írni kell a szöveget, oszt jóvan! :)
+> Csak írni kell a szöveget, oszt jóvan! :)
+
+See my [About](/about/) page for details.  

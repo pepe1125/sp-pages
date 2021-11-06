@@ -14,4 +14,4 @@
 
 > Csak írni kell a szöveget, oszt jóvan! :)
 
-See my [About](/about/) page for details.  
+See my [About](/about.md) page for details.  

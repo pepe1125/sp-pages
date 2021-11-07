@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-{% include nav.html %}
+{% include navigation.html %}
 
 # About page
 

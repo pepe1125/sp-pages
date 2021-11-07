@@ -1,6 +1,7 @@
 ---
 author: SP
 ---
+{% include navigation.html %}
 
 ## Sziasztok ez itt az első Blog-om. 
 

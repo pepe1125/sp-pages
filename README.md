@@ -1,11 +1,11 @@
 <header>
   {% include navigation.html %}
-  <h1>Ez egy repó a GitHub Pages használatára, amit a Jekyll statikus weblap készítővel hoztam létre. </h1>
+  <h1 style="text-align: justify;">Ez egy repó a GitHub Pages használatára, amit a Jekyll statikus weblap készítővel hoztam létre. </h1>
   <h2> Példaként szolgáljon! </h2>
 </header>
 <br>
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 ## A nevem, SP!
 
 ### És itt lesz egy egyszerű lista:

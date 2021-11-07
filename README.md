@@ -35,4 +35,4 @@ Nem maradhat ki a táblázat sem, angolul:
 
 
 See my [About](/about.md/) page for details.  
-</div>
+</p>

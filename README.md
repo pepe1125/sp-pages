@@ -1,4 +1,8 @@
-# Ez egy repó a GitHub Pages használatára, amit a Jekyll statikus weblap készítővel hoztam létre. Példaként szolgáljon!
+
+<header>
+  <h1> Ez egy repó a GitHub Pages használatára, amit a Jekyll statikus weblap készítővel hoztam létre. </h1>
+  <h2> Példaként szolgáljon! </h2>
+</header>
 
 ## A nevem, SP!
 

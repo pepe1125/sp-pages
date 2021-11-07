@@ -1,6 +1,7 @@
 
 <header>
   <h1> Ez egy repó a GitHub Pages használatára, amit a Jekyll statikus weblap készítővel hoztam létre. </h1>
+  <br>
   <h2> Példaként szolgáljon! </h2>
 </header>
 

@@ -19,4 +19,11 @@
 Azért olvasgass csak bele miket írok itt: [BLOG](/blog.html/)  
 
 
+Nem maradhat ki a táblázat sem, angolul:
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 See my [About](/about.md/) page for details.  

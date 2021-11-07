@@ -14,4 +14,7 @@
 
 > Csak írni kell a szöveget, oszt jóvan! :)
 
+Azért olvasgass csak bele miket írok itt a [BLOG](/blog.html/)omban.  
+
+
 See my [About](/about.md/) page for details.  

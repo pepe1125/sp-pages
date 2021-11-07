@@ -1,7 +1,6 @@
 ---
 author: SP
 ---
-{% include navigation.html %}
 
 ## Sziasztok, Peti vagyok! 
 
@@ -11,3 +10,4 @@ Mivel egy Blog nem Blog, ezért készítek még egyet, hátha így már jobban n
 Teszek bele még egy mondatot, legyen mit olvasni. 
 De igazából ide jöhetne a Lorem Ipsum szöveg is. 
 De nincs kedvem bemásolni, inkább írok. 
+{% include navigation.html %}

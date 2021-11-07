@@ -1,4 +1,4 @@
-# Ez egy repó a GitHub oldalhoz, amit a Jekyll -el generáltam.
+# Ez egy repó a GitHub Pages használatára, amit a Jekyll statikus weblap készítővel generáltam.
 
 ## A nevem, SP!
 

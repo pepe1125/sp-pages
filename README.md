@@ -5,6 +5,7 @@
 </header>
 <br>
 
+<div style="text-align: justify;">
 ## A nevem, SP!
 
 ### És itt lesz egy egyszerű lista:
@@ -34,3 +35,4 @@ Nem maradhat ki a táblázat sem, angolul:
 
 
 See my [About](/about.md/) page for details.  
+</div>

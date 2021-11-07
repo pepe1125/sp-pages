@@ -1,3 +1,7 @@
+---
+author: SP
+---
+
 # Sziasztok, Peti vagyok! 
 
 Mivel egy Blog nem Blog, ezért készítek még egyet, hátha így már jobban néz ki.

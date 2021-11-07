@@ -12,7 +12,9 @@
   2. kettő
   3. három
 
-> Csak írni kell a szöveget, oszt jóvan! :)
+> Csak írni kell a kódokat, oszt jóvan! :)
+
+  DE!
 
 Azért olvasgass csak bele miket írok itt: [BLOG](/blog.html/)  
 

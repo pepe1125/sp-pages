@@ -1,8 +1,11 @@
 <nav>
-  <a href="https://pepe1125.github.io/sp-pages/" {% if page.url == "/" %}style="color: red;"{% endif %}>
+  <a href="{{site.baseurl}}/" {% if page.url == "/" %}style="color: red;"{% endif %}>
     Home
   </a>
-  <a href="https://pepe1125.github.io/sp-pages/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
+  <a href="{{site.baseurl}}/blog.html" {% if page.url == "/blog.html" %}style="color: red;"{% endif %}>
+    Blog
+  </a>
+  <a href="{{site.baseurl}}/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
     About
   </a>
 </nav>
